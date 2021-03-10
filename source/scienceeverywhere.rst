@@ -3,7 +3,7 @@
 Science Everywhere
 ++++++++++++++++++
 
-This module is designed to help the Scout explore how science affects their life each day.
+This module is designed to help the Cub Scout explore how science affects their life each day.
 
 
 .. note::
@@ -19,11 +19,11 @@ This module is designed to help the Scout explore how science affects their life
 Pre-requisites
 ~~~~~~~~~~~~~
 
-What is a pre-requisite? It is an activity you should complete *before* the meeting! Here is a list of pre-requisites you should do to complete this Award. If you do not have time to complete it **before** the day of the activity, do not despair! You can alwasy send your work later to your instructor at the address listed above!
+What is a pre-requisite? It is an activity you should complete *before* the meeting! Here is a list of pre-requisites you should do to complete this Award. If you do not have time to complete it **before** the day of the activity, do not despair! You can always send your work later to your instructor at the address listed above!
 
 1. Requirement #1
 
-   A. Watch some of the Youtube videos listed below. (if your parents do not want you to watch videos, you use the alternate requirement "B"!)
+   A. Watch some of the Youtube videos listed below. (if your parents do not want you to watch videos, you can complete the alternate requirement "B"!)
 
       (1) Make a list of at least two questions or ideas from what you watched.
       (2) Discuss two of the questions or ideas with your counselor.
@@ -49,7 +49,6 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
 
 	  * `NOVA Videos  <https://www.youtube.com/user/NOVAonline>`__ 
 
-	  * `Mythbusters  <https://www.youtube.com/channel/UCOwjHCP2jMeGC___Fbgj2Pg>`__ 
 
    B. (only do this if you do not want to do A.) Read (about one hour total) about anything related to science. Then do the following:
 	 
@@ -60,9 +59,13 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
 2. Complete ONE adventure from the following list for your current rank or complete option A or B. (If you choose an Adventure, choose one you have not already earned.) Discuss with your counselor what kind of science, technology, engineering, and math was used in the adventure or option.
 
       A. **Wolf Cub Scouts:** Collections and Hobbies; Digging in the Past; Germs Alive!; Grow Something
-      B. **Bear Cub Scouts:** A Bear Goes Fishing Bear Picnic; Critter Care;
+      B. **Bear Cub Scouts:** A Bear Goes Fishing; Bear Picnic; Critter Care;
       C. **Webelos Scouts:** Earth Rocks!;  Maestro!
-	     
+
+   * **Option A:** Complete all of the following: (a) Explain the scientific method to your adult partner. (b) Use the scientific method in a simple science project. Explain the results to an adult. (c) Talk to a scientist about why he or she became a scientist.
+
+   * **Option B:** Complete all of the following: (a) Show how to orient a map. Find three landmarks on the map. (b) Make a simple compass with a magnet and pin. (c) Show how a compass works. (d) Use a compass on an orienteering activity with at least 3 stops.
+
 What we will do during the meeting?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
