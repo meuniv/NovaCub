@@ -54,7 +54,7 @@ html_static_path = ['_static']
 def setup(app):
     app.add_css_file('column.css')  # may also be an URL
 
-html_logo =  '_images/TRCSTEM-logo.pdf'
+html_logo =  '_images/logo.jpg'
 logo_only = True
 display_version = True
 numfig = False
