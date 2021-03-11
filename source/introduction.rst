@@ -48,8 +48,8 @@ Welcome to Cub Scout Nova Week of the TRC!
 | **Cub Scouts   | Technology     | 04/09 at       | Ted Sargent    |
 | Can Code**     |                | 6:30pm         |                |
 +----------------+----------------+----------------+----------------+
-| **Up and       | Engineering    | 04/09 at       | Bill Clancy    |
-| Away**         |                | 3:30pm         |                |
+| :ref:`euaway`  | Engineering    | 04/09 at       | Bill Clancy    |
+|                |                | 3:30pm         |                |
 +----------------+----------------+----------------+----------------+
 
 		
