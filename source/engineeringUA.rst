@@ -3,7 +3,7 @@
 Up and Away
 +++++++++++
 
-This module is designed to help the Cub Scout explore XXXXX
+Up and Away is the Cub Scout Nova Award for investigating how fluids such as liquids and gasses affect everyday life.
 
 
 .. note::
@@ -12,11 +12,11 @@ This module is designed to help the Cub Scout explore XXXXX
    * **When?**: 04/09 at 03:30pm
    * **Instructor**: Bill Clancy
    * **E-Mail address**: wsclancy@nycap.rr.com
-   * **Biosketch**: Bill Clancy is a Retired Nuclear Engineer with degrees in Nuclear Engineering and Management as well as a Professional Engineers Credentials.  Bill has extensive experience in the defense (Naval Submarine) and power industry and holds several Nuclear Power Supervisor Licenses.  He is presently engaged as a consultant building training for personnel constructing submarines at the Groton Naval Shipyard. He has been a scouter for 40 years, as an Eagle scout, Cubmaster, Scoutmaster and Commissioner.  He is now an Assistant Council Commissioner and the Chairman of the Yankee Doodle District in Rensselaer and Columbia counties.  He is also a member of the STEM Committee of the Twin Rivers Council.
+   * **Bio-sketch**: Bill Clancy is a Retired Nuclear Engineer with degrees in Nuclear Engineering and Management as well as a Professional Engineers Credentials.  Bill has extensive experience in the defense (Naval Submarine) and power industry and holds several Nuclear Power Supervisor Licenses.  He is presently engaged as a consultant building training for personnel constructing submarines at the Groton Naval Shipyard. He has been a scouter for 40 years, as an Eagle scout, Cubmaster, Scoutmaster and Commissioner.  He is now an Assistant Council Commissioner and the Chairman of the Yankee Doodle District in Rensselaer and Columbia counties.  He is also a member of the STEM Committee of the Twin Rivers Council.
 
 
 Pre-requisites
-~~~~~~~~~~~~~
+~~~~~~~~~~~~~~
 
 What is a pre-requisite? It is an activity you should complete *before* the meeting! Here is a list of pre-requisites you should do to complete this Award. If you do not have time to complete it **before** the day of the activity, do not despair! You can always send your work later to your instructor at the address listed above!
 
@@ -51,7 +51,7 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
 
       1. Bill Nye the Science Guy Sea 05 Epis 13 Fluids - `Bing video <https://www.bing.com/videos/search?q=fluid+dynamics+for+kids&&view=detail&mid=5A34B2890BB1367AC3955A34B2890BB1367AC395&&FORM=VRDGAR&ru=%2Fvideos%2Fsearch%3Fq%3Dfluid%2Bdynamics%2Bfor%2Bkids%26qpvt%3Dfluid%2Bdynamics%2Bfor%2Bkids%26FORM%3DVDRE>`__
       2. Bill Nye the Science Guy S02E19 Atmosphere - `Bing video <https://www.bing.com/videos/search?q=fluid+dynamics+for+kids&ru=%2fvideos%2fsearch%3fq%3dfluid%2bdynamics%2bfor%2bkids%26qpvt%3dfluid%2bdynamics%2bfor%2bkids%26FORM%3dVDRE&view=detail&mid=43D5F14F9A0903CB928943D5F14F9A0903CB9289&rvsmid=FC1AEECA4DB6D886EE55FC1AEECA4DB6D886EE55&FORM=VDQVAP>`__
-      3. Bill Nye The Science Guy on Wind (Full Clip) - `Bing video <https://www.bing.com/videos/search?q=fluid+dynamics+for+kids&ru=%2fvideos%2fsearch%3fq%3dfluid%2bdynamics%2bfor%2bkids%26qpvt%3dfluid%2bdynamics%2bfor%2bkids%26FORM%3dVDRE&view=detail&mid=8CE45128D0EAE6C6A3EC8CE45128D0EAE6C6A3EC&&FORM=VDRVRV>`__
+      3. Bill Nye The Science Guy on Wind (Full Clip) - `Bing video <https://www.bing.com/videos/search?q=fluid+dynamics+for+kids&ru=%2fvideos%2fsearch%3fq%3dfluid%2bdynamics%2bfor%2bkids%26qpvt%3dfluid%2bdynamics%2bfor%2bkids%26FORM%3dVDRE&view=detail&mid=8CE45128D0EVE6C6A3EC8CE45128D0EAE6C6A3EC&&FORM=VDRVRV>`__
 
    If watching videos is not your thing you may select an article and read for an hour.  A couple of good places to look include:
 
@@ -65,7 +65,7 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
 What we will do during the meeting?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Among other things, we will study airplaines:
+Among other things, we will study airplanes:
 
 We will be using both a pin wheel and a paper airplane as part of studying Bernouli's Law and Fluid Dynamics.
 
