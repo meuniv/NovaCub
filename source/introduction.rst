@@ -27,7 +27,7 @@ Welcome to Cub Scout Nova Week of the TRC!
 | **Swing!**     | Engineering    | 04/06 at       | Jeff Zemsky    |
 |                |                | 3:30pm         |                |
 +----------------+----------------+----------------+----------------+
-| **1-2-3 Go!**  | Mathematics    | 04/10 at       | Rob Pattison   |
+|:ref:`onetwo`   | Mathematics    | 04/10 at       | Rob Pattison   |
 |                |                | 12:00pm        |                |
 +----------------+----------------+----------------+----------------+
 | **Down and     | Science        | 04/07 at       | Jeffrey Brewer |
