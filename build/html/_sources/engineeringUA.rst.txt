@@ -67,7 +67,7 @@ What we will do during the meeting?
 
 Among other things, we will study airplanes:
 
-We will be using both a pin wheel and a paper airplane as part of studying Bernouli's Law and Fluid Dynamics.
+We will be using both a pin wheel and a paper airplane as part of studying Bernoulli's Law and Fluid Dynamics.
 
 **Scouts should make their pinwheel and airplane before the event as outlined in the following**:
 

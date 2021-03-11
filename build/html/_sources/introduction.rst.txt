@@ -30,8 +30,8 @@ Welcome to Cub Scout Nova Week of the TRC!
 |:ref:`onetwo`   | Mathematics    | 04/10 at       | Rob Pattison   |
 |                |                | 12:00pm        |                |
 +----------------+----------------+----------------+----------------+
-| **Down and     | Science        | 04/07 at       | Jeffrey Brewer |
-| Dirty**        |                | 3:30pm         |                |
+|:ref:`downdirt` | Science        | 04/07 at       | Jeffrey Brewer |
+|                |                | 3:30pm         | James Cascione |
 +----------------+----------------+----------------+----------------+
 | **Nova Wild!** | Science        | 04/06 at       | Melissa        |
 |                |                | 6:30pm         | Sargent        |
