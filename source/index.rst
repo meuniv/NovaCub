@@ -13,8 +13,15 @@ Welcome to Cub Scout Nova Awards
 
    introduction
    scienceeverywhere
+   techtalk
+   swing
    onetwothree
    downdirty
+   novawild
+   outofthis
+   fearfulsym
+   uncovering
+   cubcancode
    engineeringUA
    
 
