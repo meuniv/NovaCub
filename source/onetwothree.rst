@@ -23,7 +23,7 @@ Pre-requisites
 
 What is a pre-requisite? It is an activity you should complete *before* the meeting! Here is a list of pre-requisites you should do to complete this Award. If you do not have time to complete it **before** the day of the activity, do not despair! You can always send your work later to your instructor at the address listed above!
 
-1. Choose A or B or C and complete ALL the requirements.
+Choose A or B or C and complete ALL the requirements.
 
    A. Watch an episode or episodes (about one hour total) of a show that involves math or physics. Then do the following:
 
@@ -48,17 +48,57 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
       1. Make a list of at least two questions or ideas from what you read and watched.
       2. Discuss two of the questions or ideas with your counselor.
 
+
+
+What will we do during the meeting?
+-----------------------------------
+
+1. Requirement #2: 
+
+   (a) Conduct an opinion survey through which you collect data to answer a question and then show your results with a chart or graph. For example, what is the favorite food of the scouts in your den (chart how many like pizza, how many like cookies, etc.).
+   (b) Conduct and keep a record of a coin toss probability experiment. Keep track of at least 25 tosses.
+
+   .. note:: 
+
+      **For this Requirement, cub scouts should have a pen or pencil and paper available as well as a coin to flip for the experiment**
  
 
-2. Complete ONE adventure from the following list for your current rank or complete option A or B. (If you choose an Adventure, choose one you have not already earned.) Discuss with your counselor what kind of science, technology, engineering, and math was used in the adventure or option.
+2. Requirement #3:
 
-   * Wolf Cub Scouts:  Code of the Wolf
-   * Bear Cub Scouts: Robotics
-   * Webelos Scouts: Game Design
+   Explore the two options below and complete ALL the requirements for those options. Keep your work to share with your counselor. The necessary information to make your calculations can be found in a book or on the Internet. (See the Helpful Links box for ideas.) You may work with your counselor on these calculations.
+
+   A. Choose TWO of the following places and calculate how much you would weigh there.
+
+      1. On the moon
+      2. On Jupiter
+
+   B. Calculate the volume of air in your bedroom. Make sure your measurements have the same units—all feet or all inches—and show your work.
+
+      .. hint::
+
+	 Volume=Length x Width x Height
 
 
-   A. Option A: Complete both of the following: (a) Conduct an opinion survey through which you collect data to answer a question and then show your results with a chart or graph. For example, what is the favorite food of the scouts in your den (chart how many like pizza, how many like cookies, etc.). (b). Conduct and keep a record of a coin toss probability experiment. Keep track of at least 25 tosses.
+      .. note::
 
-   B. Option B:  Complete both of the following: (a) Interview four adults in different occupations and see how they use measurement in their job. (b) Measure how tall someone is. Have them measure you. Complete in both inches and centimeters.
+	 For this requirement, cub scouts need to know their weight in lbs and should have a pen or pencil and paper available as well as a ruler or tape measure to measure their room.
 
+3. Requirement #4: **secret codes*
 
+   A. Look up, then discuss with your counselor each of the following:
+
+      1. Cryptography
+      2. At least three ways secret codes or ciphers are made
+      3. How secret codes and ciphers relate to mathematics
+
+   B. Design a secret code or cipher. Then do the following:
+
+      1. Write a message in your code or cipher.
+      2. Share your code or cipher with your counselor.
+
+   .. note::
+      
+	 For this requirement, cub scouts should have their scout manual available and have pen or pencil and paper  
+ 
+
+4. Requirement #5: Discuss with your counselor how math affects your everyday life.
