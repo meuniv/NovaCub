@@ -26,7 +26,7 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
 
       Some examples include — but are not limited to — shows found on PBS (“NOVA”), Discovery Channel, Science Channel, National Geographic Channel, TED Talks (online videos), and the History Channel. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production. You may watch online productions with your counselor’s approval and under your parent’s supervision.
    
-2. Gathere the following items for the event
+2. Gather the following items for the event
 
    a. small nature items, leaves, small sticks, feathers, etc. (should include at least one flatter items such as leaves)
    b. Paper
