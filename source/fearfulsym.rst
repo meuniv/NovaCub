@@ -45,7 +45,7 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
 
 
 What we will do during the meeting?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------
 
 1.  Complete all of the following:
 
