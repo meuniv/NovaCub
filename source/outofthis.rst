@@ -28,7 +28,7 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
 
    .. note::
 
-      ** Here are some examples of approrpiate videos: **
+      ** Here are some examples of appropriate videos: **
 
       * https://www.youtube.com/watch?v=Xwn8fQSW7-8&list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL&index=17
       * https://www.youtube.com/watch?v=HaFaf7vbgpE&list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL&index=18
@@ -37,7 +37,7 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
       * https://www.youtube.com/watch?v=yB9HHyPpKds&list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL&index=22&t=29s
       * https://www.youtube.com/watch?v=NPEEQm7bzcI
       * https://www.youtube.com/watch?v=US_byEAbXP0&t=11s
-      * ttps://www.youtube.com/watch?v=seXbrauRTY4&t=8s
+      * https://www.youtube.com/watch?v=seXbrauRTY4&t=8s
 
 
 
@@ -46,7 +46,7 @@ What we will do during the meeting?
 -----------------------------------
 
 
-1. We'll talk about how to focus, make a diagram of the solar system, and draw some constellations.  We will use a planetarium software we can use to then try to find them.
+1. We'll talk about how to focus, make a diagram of the solar system, and draw some constellations.  We will use a planetarium software to then try to find them.
 
    .. note::
 
@@ -54,7 +54,7 @@ What we will do during the meeting?
 
 2. We will talk about Revolution, Orbit, Rotation and eclipses. Please bring a flashlight and some different sized balls to the online meeting. 
 
-3. We'll do a presentation of the observatory and some of the research tah is done there.
+3. We'll do a presentation of the observatory and some of the research that is done there.
 
 
 .. figure:: _images/SunandTelescope2.jpg
