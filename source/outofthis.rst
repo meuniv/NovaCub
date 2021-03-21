@@ -28,7 +28,7 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
 
    .. note::
 
-      ** Here are some examples of appropriate videos: **
+      **Here are some examples of appropriate videos:**
 
       * https://www.youtube.com/watch?v=Xwn8fQSW7-8&list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL&index=17
       * https://www.youtube.com/watch?v=HaFaf7vbgpE&list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL&index=18
@@ -62,5 +62,5 @@ What we will do during the meeting?
    :align: center
    :alt: Alternative text
 
-   Prof. Hassel pointing his telescope safely to project an image of the Sun. As a rule: never point a telescope or binoculars directly toward the Sun! In fact, if you watch the sun, never do this withuot protective gear!
+   Prof. Hassel pointing his telescope safely to project an image of the Sun. As a rule: never point a telescope or binoculars directly toward the Sun! In fact, if you watch the Sun, never do this without protective gears!
 
