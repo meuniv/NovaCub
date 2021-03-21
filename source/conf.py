@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Twin Rivers - STEM Initiative"
+project = "Twin Rivers - Cub Scout Nova Quest"
 copyright = '2021, Vincent Meunier'
 author = 'Vincent Meunier'
 
