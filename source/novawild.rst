@@ -39,7 +39,8 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
    i. Bird seed (1 cup)
 
 What we will do during the meeting?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------
+
 1. Digging the Past
    
    a. Dinosaur Match Game: Name the Dinosaur PowerPoint attached.
