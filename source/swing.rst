@@ -3,8 +3,7 @@
 Swing
 +++++
 
-This module is designed to help the Cub Scout explore XXXXX
-
+This module is designed to help the Cub Scout explore how engineering and simple machines called levers affect your life each day.
 
 .. note::
    **General Information about this activity:**
@@ -38,7 +37,7 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
       * `Simple Machines for Kids: Science and Engineering for Children - FreeSchool <https://www.youtube.com/watch?v=fvOmaf2GfCY>`__
       * `Simple Machines (Lever) - Distance Learning Science Educational Videos (Elementary Students & Kids) <https://www.youtube.com/watch?v=5rlIl0rKK5k>`__
       * `Simple Machines:Levers <https://www.youtube.com/watch?v=fzljPiPy9nw>`__
-      * `Three Classes of Levers - Examples, Defintion, Classification <https://www.youtube.com/watch?v=DXtr9-S3lxw>`__
+      * `Three Classes of Levers - Examples, Definition, Classification <https://www.youtube.com/watch?v=DXtr9-S3lxw>`__
 
       * Some additional examples include—but are not limited to—shows found on PBS (“NOVA”), Discovery Channel, Science Channel, National Geographic Channel, TED Talks (online videos), and the History Channel. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production. You may watch online productions with your counselor’s approval and under your parent’s supervision.
 
