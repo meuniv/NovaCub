@@ -12,7 +12,7 @@ This module is designed to help the Cub Scout discover the wonders of space expl
    * **When?**: 04/05 at 06:30pm
    * **Instructor**: George Hassel
    * **E-Mail address**: ghassel@siena.edu
-   * **Bio-sketch**: xxxx
+   * **Bio-sketch**: George is an instructor of Physics and Astronomy at Siena College and enjoys outreach events with the Breyo Observatory.   He is the Webelos Den  Leader for Pack 1701 in Latham, and earned the rank of Eagle Scout in 1995 in Valley Forge Council (PA).  
 
 
 Pre-requisites
@@ -62,5 +62,5 @@ What we will do during the meeting?
    :align: center
    :alt: Alternative text
 
-   Prof. Hassel pointing his telescope
+   Prof. Hassel pointing his telescope safely to project an image of the Sun. As a rule: never point a telescope or binoculars directly toward the Sun! In fact, if you watch the sun, never do this withuot protective gear!
 
