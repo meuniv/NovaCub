@@ -12,7 +12,7 @@ This module is designed to help the Cub Scout explore how technology affects you
    * **When?**: 04/05 at 03:30pm
    * **Instructor**: Ted Sargent
    * **E-Mail address**: tesargent@gmail.com
-   * **Bio-sketch**: xxxx
+   * **Bio-sketch**: Ted is a mechanical engineer specializing in HVAC systems for higher education, hospitals, commercial, and institutional buildings. He is a Den leader and Pack committee chair for Pack 3020 in Glenville, NY along with Assistant Scoutmaster for Troop 56 in Burnt Hills, NY. Ted also earned his Eagle Scout in 1997 in Annawon Council in South Eastern Massachusetts. 
 
 
 Pre-requisites

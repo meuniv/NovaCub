@@ -32,7 +32,18 @@ Choose A or B or C and complete ALL the requirements.
 
       .. note::
 
-	 Some examples include—but are not limited to—shows found on PBS (“NOVA”), Discovery Channel, Science Channel, National Geographic Channel, TED Talks (online videos), and the History Channel. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production. You may watch online productions with your counselor’s approval and under your parent’s supervision.
+	 **Examples of videos:**
+
+	 * `Mathematics is the queen of Sciences <https://www.youtube.com/watch?v=8mve0UoSxTo&list=PL5VZkYoAHtSRFvEORmBWCT-sUlY0JxEgQ&index=1>`__
+	 * `BBC Magic Numbers Mysterious World of Maths 1/3 <https://www.youtube.com/playlist?list=PL5VZkYoAHtSRFvEORmBWCT-sUlY0JxEgQ>`__
+	 * `BBC Magic Numbers Mysterious World of Maths 2/3 <https://www.youtube.com/watch?v=R6Qty8tAnVI&list=PL5VZkYoAHtSRFvEORmBWCT-sUlY0JxEgQ&index=3>`__
+	 * `BBC Magic Numbers Mysterious World of Maths 3/3 <https://www.youtube.com/watch?v=TKKUZoqSTxw&list=PL5VZkYoAHtSRFvEORmBWCT-sUlY0JxEgQ&index=4>`__
+	 * `Donald Duck - Golden Mean <https://www.youtube.com/watch?v=fwYfuJfIgaw&list=PL5VZkYoAHtSRFvEORmBWCT-sUlY0JxEgQ&index=5>`__
+	 * `How big is infinity? <https://www.youtube.com/watch?v=UPA3bwVVzGI&list=PL5VZkYoAHtSRFvEORmBWCT-sUlY0JxEgQ&index=6>`__
+	 * `How does math guide our ships at sea? <https://www.youtube.com/watch?v=AGCUm_jWtt4&list=PL5VZkYoAHtSRFvEORmBWCT-sUlY0JxEgQ&index=7>`__
+	 * `Enigma Machine <https://www.youtube.com/watch?v=G2_Q9FoD-oQ&list=PL5VZkYoAHtSRFvEORmBWCT-sUlY0JxEgQ&index=8>`__
+	 * `Flaw in the Enigma Code <https://www.youtube.com/watch?v=V4V2bpZlqx8&list=PL5VZkYoAHtSRFvEORmBWCT-sUlY0JxEgQ&index=9>`__
+	 * `Math And The Rise Of Civilization. Ep.01 <https://www.youtube.com/watch?v=DVngFvtZwAU&list=PL5VZkYoAHtSRFvEORmBWCT-sUlY0JxEgQ&index=10>`__
 
    B. Read (about one hour total) about anything that involves math or physics. Then do the following:
 
