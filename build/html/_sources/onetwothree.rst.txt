@@ -32,10 +32,10 @@ Choose A or B or C and complete ALL the requirements.
 
       .. note::
 
-	 Examples:
+	 **Examples of videos:**
 
 	 * `Mathematics is the queen of Sciences <https://www.youtube.com/watch?v=8mve0UoSxTo&list=PL5VZkYoAHtSRFvEORmBWCT-sUlY0JxEgQ&index=1>`__
-	 * `BBC Magic Numbers Mysterious World of Maths 1/3 <https://www.youtube.com/playlist?list=PL5VZkYoAHtSRFvEORmBWCT-sUlY0JxEgQ>`__
+	 * `BBC Magic Numbers Mysterious World of Maths 1/3 <https://www.youtube.com/watch?v=cyvDG8qjt-M&list=PL5VZkYoAHtSRFvEORmBWCT-sUlY0JxEgQ&index=2>`__
 	 * `BBC Magic Numbers Mysterious World of Maths 2/3 <https://www.youtube.com/watch?v=R6Qty8tAnVI&list=PL5VZkYoAHtSRFvEORmBWCT-sUlY0JxEgQ&index=3>`__
 	 * `BBC Magic Numbers Mysterious World of Maths 3/3 <https://www.youtube.com/watch?v=TKKUZoqSTxw&list=PL5VZkYoAHtSRFvEORmBWCT-sUlY0JxEgQ&index=4>`__
 	 * `Donald Duck - Golden Mean <https://www.youtube.com/watch?v=fwYfuJfIgaw&list=PL5VZkYoAHtSRFvEORmBWCT-sUlY0JxEgQ&index=5>`__
