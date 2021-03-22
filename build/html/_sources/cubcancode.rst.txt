@@ -12,7 +12,7 @@ Did you ever wonder how computers know what to do? This module is designed to he
    * **When?**: 04/09 at 06:30pm
    * **Instructor**: Ted Sargent
    * **E-Mail address**: tesargent@gmail.com
-   * **Bio-sketch**: xxxx
+   * **Bio-sketch**: Ted is a mechanical engineer specializing in HVAC systems for higher education, hospitals, commercial, and institutional buildings. He is a Den leader and Pack committee chair for Pack 3020 in Glenville, NY along with Assistant Scoutmaster for Troop 56 in Burnt Hills, NY. Ted also earned his Eagle Scout in 1997 in Annawon Council in South Eastern Massachusetts. 
 
 
 Pre-requisites
@@ -28,18 +28,18 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
 
       2. Discuss two of the questions or ideas with your counselor.
 
-         -  CrashCourse - Computers
-         -  What is an Algorithm
-         -  Binary Explained
-         -  Basics Explained
-         -  Hour Of Code Series
-         -  BrainPop - Computer Programing
-         -  `See how a CPU Works <about:blank>`__
-         -  `Intro: How to Program in C# <about:blank>`__
+         -  `CrashCourse - Computers <https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=1>`__
+         -  `What is an Algorithm <https://www.youtube.com/watch?v=Da5TOXCwLSg>`__
+         -  `Binary Explained <https://www.youtube.com/watch?v=Xpk67YzOn5w>`__
+         -  `Basics Explained <https://www.youtube.com/channel/UCjpxbl1_Uvr0VlgMz7GUCjw>`__
+         -  `Hour Of Code Series <https://www.youtube.com/channel/UCJyEBMU1xVP2be1-AoGS1BA>`__
+         -  `BrainPop - Computer Programing <https://www.youtube.com/watch?v=pKBw98uHOyk&t=106s>`__
+         -  `See how a CPU Works <https://www.youtube.com/watch?v=eqNP2QSLkB0>`__
+         -  `Intro: How to Program in C# <https://www.youtube.com/watch?v=N775KsWQVkw&list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR>`__
 
-   B. (only do this if you do not want to do A.) Read (about one hour         total) about anything related to computers, coding, and careers         that involve computers. Then do the following:
+   B. (only do this if you do not want to do A.) Read (about one hour total) about anything related to computers, coding, and careers         that involve computers. Then do the following:
 
-      1. Make a list of at least two questions or ideas from what you            read.
+      1. Make a list of at least two questions or ideas from what you read.
 
       2. Discuss two of the questions or ideas with your counselor.
 
@@ -47,7 +47,7 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
 
    A. Spend at least one hour creating instructions for a computer to execute, then testing and debugging them. There are many free applications for computers, tablets, and smartphones.
 
-   B. Discuss with your counselor what you were able to create. Explain wat you liked best about it and what was difficult.
+   B. Discuss with your counselor what you were able to create. Explain what you liked best about it and what was difficult.
 
 .. note:: What you need for class?
 

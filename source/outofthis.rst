@@ -62,5 +62,5 @@ What we will do during the meeting?
    :align: center
    :alt: Alternative text
 
-   Prof. Hassel pointing his telescope safely to project an image of the Sun. As a rule: never point a telescope or binoculars directly toward the Sun! In fact, if you watch the Sun, never do this without protective gears!
+   Prof. Hassel pointing his telescope safely to project an image of the Sun. As a rule: never point a telescope or binoculars directly toward the Sun! In fact, if you watch the Sun, never do this without protective gear!
 

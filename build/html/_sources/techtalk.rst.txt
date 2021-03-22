@@ -60,7 +60,9 @@ What we will do during the meeting?
 
    (a) Explain these parts of a personal computer: central processing unit (CPU), monitor, keyboard, mouse, modem, and printer.
 
-   (b) Make a list of ten devices that can be found in a home that use a computer chip to function. (c) Use a spreadsheet program to organize some information.
+   (b) Make a list of ten devices that can be found in a home that use a computer chip to function.
+
+   (c) Use a spreadsheet program to organize some information.
 
 2. Complete all of the following:
 

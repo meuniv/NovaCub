@@ -12,7 +12,7 @@ This module is designed to help the Cub Scout explore how science affects their 
    * **When?**: 04/08 at 3:30pm
    * **Instructor**: Vincent Meunier
    * **E-Mail address**: twinriversstem@gmail.com
-   * **Bio-sketch**: Vincent Meunier is a Physicist with an expertise in theoretical and computational physics. He's the Head of the Physics Department at Rensselaer Polytechnic Institute where he teaches Quantum Mechanics and Thermodynamics. He's a Fellow of the American Physical Society, the Institute of Physics, and the American Association for the Advancement of Science. He has been a scouter for 35 years, first as a cub, scout, and scoutmaster while in Belgium. He has been a dean leader, assistant scoutmaster, scoutmaster, and now a Fort Orange committee member and District Chair of the STEM Committee of the Twin Rivers Council. 
+   * **Bio-sketch**: Vincent Meunier is a Physicist with an expertise in theoretical and computational physics. He's the Head of the Physics Department at Rensselaer Polytechnic Institute where he teaches Quantum Mechanics and Thermodynamics. He's a Fellow of the American Physical Society, the Institute of Physics, and the American Association for the Advancement of Science. He has been a scouter for 35 years, first as a cub, scout, and scoutmaster while in Belgium. He has been a dean leader, assistant scoutmaster, scoutmaster, and now a Fort Orange district committee member and  Chair of the STEM Committee of the Twin Rivers Council. 
    
 
 

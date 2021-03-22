@@ -11,7 +11,7 @@ This module is designed to help the Cub Scout explore how engineering and simple
    * **When?**: 04/06 at 03:30pm
    * **Instructor**: Jeff Zemsky
    * **E-Mail address**: jeffzemsky@gmail.com
-   * **Bio-sketch**: Jeff Zemsky is a Senior Director of Product Management at PTC, a software company out of Boston MA.  At PTC, Jeff leads a team focused on PLM software for managing product design as they evolve through the development cycle.  PTC is an industry leader in CAD, PLM, AR and IoT helping companies create and manage products of all sorts from consumer goods to aerospace and everything in between.  Prior to PTC, Jeff worked at Plug Power managing fuel cell stack design and at Garden Way (Troy-bilt & Bolens) developing consumer lawn and garden products like mowers, tillers and snowthrowers.  Jeff has a BSME from Lehigh University and a MEME from RPI and is an ASME member.  Currently Jeff is a Committee member with Troop 1075 in Delmar, NY and serves on the Fort Orange Committee as was Cubmaster for Pack 232 in Glenmont, NY.
+   * **Bio-sketch**: Jeff Zemsky is a Senior Director of Product Management at PTC, a software company out of Boston MA.  At PTC, Jeff leads a team focused on PLM software for managing product design as they evolve through the development cycle.  PTC is an industry leader in CAD, PLM, AR and IoT helping companies create and manage products of all sorts from consumer goods to aerospace and everything in between.  Prior to PTC, Jeff worked at Plug Power managing fuel cell stack design and at Garden Way (Troy-bilt & Bolens) developing consumer lawn and garden products like mowers, tillers and snowthrowers.  Jeff has a BSME from Lehigh University and a MEME from RPI and is an ASME member.  Currently Jeff is a Committee member with Troop 1075 in Delmar, NY and serves on the Fort Orange District Committee as was Cubmaster for Pack 232 in Glenmont, NY.
 
 
 Pre-requisites
@@ -63,7 +63,7 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
 
 3. Do the following: Visit a place that uses levers, such as a playground, carpentry shop, construction site, restaurant kitchen, or any other location that  uses levers.
 
-**note – we will work on a video visit during class – if you have a chance to visit a playground before this class that would be beneficial, but not required]**
+**note – we will work on a video visit during class – if you have a chance to visit a playground before this class that would be beneficial, but not required**
 
 
 What we will do during the meeting?

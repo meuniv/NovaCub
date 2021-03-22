@@ -28,12 +28,12 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
    
 2. Gather the following items for the event
 
-   a. small nature items, leaves, small sticks, feathers, etc. (should include at least one flatter items such as leaves)
+   a. small nature items, leaves, small sticks, feathers, etc. (should include at least one flatter item such as leaves)
    b. Paper
    c. Crayons with wrappers removed (any bolder or darker color)
    d. Glue (not glue stick) and or tape
    e. Cardboard piece or thicker paper
-   f. Pinecone or toilet paper tube
+   f. Pine cone or toilet paper tube
    g. Piece of string (1-3 ft. long)
    h. Peanut butter (1 cup)
    i. Bird seed (1 cup)
@@ -43,7 +43,7 @@ What we will do during the meeting?
 
 1. Digging the Past
    
-   a. Dinosaur Match Game: Name the Dinosaur PowerPoint attached.
+   a. Dinosaur Match Game: *Name the Dinosaur PowerPoint presentation* will be shown during the meeting.
    b. Create an imaginary dinosaur: https://mrnussbaum.com/dinosaur-maker-online
    c. Make a fossil cast: Make a crayon rubbing of a leaf or some other flatter object
 

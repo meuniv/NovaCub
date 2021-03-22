@@ -12,7 +12,7 @@ This module is designed to help the Cub Scout explore how symmetry affects your 
    * **When?**: 04/08 at 06:30pm
    * **Instructor**: Melia Gordon
    * **E-Mail address**: boyscouts@meliagordon.com
-   * **Bio-sketch**: Melia Gordon is an electrical engineer turned yoga teacher. She has been involved in Girl Scouts for 17 years and Boy Scouts for almost 10 years, helping with fundraising for Cub Scouts and Scouts BSA and as Assistant Scoutmaster for her oldest’s girl troop. When not teaching, she coaches FIRST robotics teams for her 3 kids to keep her engineering skills sharp.
+   * **Bio-sketch**: Melia Gordon is an electrical engineer turned yoga teacher. She has been involved in Girl Scouts for 17 years and BSA Scouts for almost 10 years, helping with fundraising for Cub Scouts and Scouts BSA and as Assistant Scoutmaster for her oldest’s girl troop. When not teaching, she coaches FIRST robotics teams for her 3 kids to keep her engineering skills sharp.
 
 
 Pre-requisites
@@ -57,7 +57,7 @@ What we will do during the meeting?
 
        For this, Cubs will need toothpicks and small marshmallows (or something similar - gum drops, gummy bears, skewers and big marshmallows, etc)
 
-2. We will com plete the following two activities:
+2. We will complete the following two activities:
 
    A. Make a paper lantern
 
