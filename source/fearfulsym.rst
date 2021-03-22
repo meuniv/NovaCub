@@ -39,6 +39,7 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
       2. Discuss two of the questions or ideas with your counselor.
 
    C. Do a combination of reading and watching (about one hour total) about anything that involves symmetry, mirrors, or artistic patterns. Then do the following:
+
       1. Make a list of at least two questions or ideas from what you read and watched.
       2. Discuss two of the questions or ideas with your counselor.
 
