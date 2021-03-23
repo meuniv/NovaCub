@@ -40,11 +40,11 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
 
    .. note:: 
 
-      Some examples of shows to watch include—but are not limited to—“The STEM of
-      Indoor Skydiving” (https://youtu.be/V5jJ5FaX1ZU ); documentaries produced by PBS (such as 
+      Some examples of shows to watch include—but are not limited to—`The STEM of
+      Indoor Skydiving <https://youtu.be/V5jJ5FaX1ZU>`__; documentaries produced by PBS (such as 
       “NOVA”), the Discovery Channel, Science Channel, National Geographic Channel, and the History 
       Channel; or lectures or presentations focused on science, technology, engineering, or math (such as 
-      TED Talks https://www.ted.com) using some search terms you might think of using could include “fluid 
+      `TED Talks <https://www.ted.com>`__) using some search terms you might think of using could include “fluid 
       dynamics for kids” or “the science of skydiving for kids.” You may watch online productions with 
       your counselor’s approval and under your parent’s or guardian’s supervision. You may choose to 
       watch a live performance or movie at a planetarium or science museum instead of watching a media production.
@@ -53,7 +53,7 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
 
       1. Bill Nye the Science Guy Sea 05 Epis 13 Fluids - `Bing video <https://www.bing.com/videos/search?q=fluid+dynamics+for+kids&&view=detail&mid=5A34B2890BB1367AC3955A34B2890BB1367AC395&&FORM=VRDGAR&ru=%2Fvideos%2Fsearch%3Fq%3Dfluid%2Bdynamics%2Bfor%2Bkids%26qpvt%3Dfluid%2Bdynamics%2Bfor%2Bkids%26FORM%3DVDRE>`__
       2. Bill Nye the Science Guy S02E19 Atmosphere - `Bing video <https://www.bing.com/videos/search?q=fluid+dynamics+for+kids&ru=%2fvideos%2fsearch%3fq%3dfluid%2bdynamics%2bfor%2bkids%26qpvt%3dfluid%2bdynamics%2bfor%2bkids%26FORM%3dVDRE&view=detail&mid=43D5F14F9A0903CB928943D5F14F9A0903CB9289&rvsmid=FC1AEECA4DB6D886EE55FC1AEECA4DB6D886EE55&FORM=VDQVAP>`__
-      3. Bill Nye The Science Guy on Wind (Full Clip) - `Bing video <https://www.bing.com/videos/search?q=fluid+dynamics+for+kids&ru=%2fvideos%2fsearch%3fq%3dfluid%2bdynamics%2bfor%2bkids%26qpvt%3dfluid%2bdynamics%2bfor%2bkids%26FORM%3dVDRE&view=detail&mid=8CE45128D0EVE6C6A3EC8CE45128D0EAE6C6A3EC&&FORM=VDRVRV>`__
+      3. `Bill Nye The Science Guy on Wind (Full Clip) - <Bill Nye The Science Guy on Wind (Full Clip)>`__
 
    If watching videos is not your thing you may select an article and read for an hour.  A couple of good places to look include:
 
