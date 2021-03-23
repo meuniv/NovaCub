@@ -13,7 +13,7 @@ Up and Away is the Cub Scout Nova Award for investigating how fluids such as liq
    * **Instructor**: Bill Clancy
    * **E-Mail address**: wsclancy@nycap.rr.com
    * **Pre-reqs submission**: `google form <>`__
-   * **Zoom link for activity**: 
+   * **Zoom link for activity**: https://us02web.zoom.us/j/86176577409
    * **Bio-sketch**: Bill Clancy is a retired Nuclear Engineer with degrees in Nuclear Engineering and Management as well as a Professional Engineers Credentials.  Bill has extensive experience in the defense (Naval Submarine) and power industry and holds several Nuclear Power Supervisor Licenses.  He is presently engaged as a consultant building training for personnel constructing submarines at the Groton Naval Shipyard. He has been a scouter for 40 years, as an Eagle scout, Cubmaster, Scoutmaster and Commissioner.  He is now an Assistant Council Commissioner and the Chairman of the Yankee Doodle District in Rensselaer and Columbia counties.  He is also a member of the STEM Committee of the Twin Rivers Council.
 
 

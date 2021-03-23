@@ -12,8 +12,8 @@ This module is designed to help the Cub Scout explore how symmetry affects your 
    * **When?**: 04/08 at 06:30pm
    * **Instructor**: Melia Gordon
    * **E-Mail address**: boyscouts@meliagordon.com
-   * **Pre-reqs submission**: `google form <>`__
-   * **Zoom link for activity**: 
+   * **Pre-reqs submission**: `google form <https://docs.google.com/forms/d/e/1FAIpQLSfOLxOzfbvY-S4kMuaPNDcMjgJXow8BRTQAKJE-choLFqZQ1A/viewform>`__
+   * **Zoom link for activity**: https://us02web.zoom.us/j/86193434821
    * **Bio-sketch**: Melia Gordon is an electrical engineer turned yoga teacher. She has been involved in Girl Scouts for 17 years and BSA Scouts for almost 10 years, helping with fundraising for Cub Scouts and Scouts BSA and as Assistant Scoutmaster for her oldest’s girl troop. When not teaching, she coaches FIRST robotics teams for her 3 kids to keep her engineering skills sharp.
 
 
@@ -48,7 +48,7 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
 
 .. warning:: Pre-req submissions
 
-   Finally, have your cub scouts **ENTER** their pre work in this `form <>`__ before April 5\ :sup:`th` to allow us to create a truly interactive and personalized learning experience. If you are late that is OK, please still fill it out up to our scheduled 3:30 class. Feel free to contact the instructor (See email in blue box at the top of this page)
+   Finally, have your cub scouts **ENTER** their pre work in this `form <https://docs.google.com/forms/d/e/1FAIpQLSfOLxOzfbvY-S4kMuaPNDcMjgJXow8BRTQAKJE-choLFqZQ1A/viewform>`__ before April 5\ :sup:`th` to allow us to create a truly interactive and personalized learning experience. If you are late that is OK, please still fill it out up to our scheduled class. Feel free to contact the instructor (See email in blue box at the top of this page).
 
 What will we do during the meeting?
 -----------------------------------

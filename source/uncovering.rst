@@ -13,7 +13,7 @@ This module is designed to help the Cub Scout explore XXXXX
    * **Instructor**: Katie McCabe
    * **E-Mail address**: mccabk@rpi.edu
    * **Pre-reqs submission**: `google form <>`__
-   * **Zoom link for activity**: 
+   * **Zoom link for activity**: https://us02web.zoom.us/j/89238412594
    * **Bio-sketch**: Katie is currently a senior biology major at Rensselaer Polytechnic Institute, and is also currently a 1/C Midshipman in the NROTC program there. Katie will be holding the meeting with the aid of a few of her fellow Midshipmen: Jonathan Beck, Jillian Kasun, Christopher Kang, Matthew Farr, and Michael Mendez.
 
 
@@ -86,7 +86,7 @@ What will we do during the meeting?
  
 3. **Be an archaeologist!**  You will create your own layers of artifacts and ecofacts. Gather some small items that would show future archaeologists how you and your family lived. Use a plastic bottle or glass jar as the vessel and Play-Doh sand, dirt, etc., to form layers. Place the gathered items in different layers. Think about which layers would hold the older items compared to newer ones. Show it to your counselor, and discuss with your counselor why you chose these items and what they would show archaeologists about how you lived. Excavate your items when you’re done.
 
-   .. warninge::
+   .. warning::
 
       *Parents**: make sure you have a tall, clear cup or jar, some small items, and playdough or sand ready for the scouts to build their layers. Put down some cloths or newspaper to avoid any mess during the excavation portion.
  

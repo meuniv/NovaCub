@@ -11,8 +11,8 @@ This module is designed to help the Cub Scout explore how engineering and simple
    * **When?**: 04/06 at 03:30pm
    * **Instructor**: Jeff Zemsky
    * **E-Mail address**: jeffzemsky@gmail.com
-   * **Pre-reqs submission**: `google form <>`__
-   * **Zoom link for activity**: 
+   * **Pre-reqs submission**: `google form <https://forms.gle/yZ3Drx9a7fkh3KqCA>`__
+   * **Zoom link for activity**: https://us02web.zoom.us/j/86158992384
    * **Bio-sketch**: Jeff Zemsky is a Senior Director of Product Management at PTC, a software company out of Boston MA.  At PTC, Jeff leads a team focused on PLM software for managing product design as they evolve through the development cycle.  PTC is an industry leader in CAD, PLM, AR and IoT helping companies create and manage products of all sorts from consumer goods to aerospace and everything in between.  Prior to PTC, Jeff worked at Plug Power managing fuel cell stack design and at Garden Way (Troy-bilt & Bolens) developing consumer lawn and garden products like mowers, tillers and snowthrowers.  Jeff has a BSME from Lehigh University and a MEME from RPI and is an ASME member.  Currently Jeff is a Committee member with Troop 1075 in Delmar, NY and serves on the Fort Orange District Committee as was Cubmaster for Pack 232 in Glenmont, NY.
 
 
@@ -69,7 +69,7 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
 
 .. warning:: Pre-req submissions
 
-   Finally, have your cub scouts **ENTER** their pre work in this `form <>`__ before April 5\ :sup:`th` to allow us to create a truly interactive and personalized learning experience. If you are late that is OK, please still fill it out up to our scheduled 3:30 class. Feel free to contact the instructor (See email in blue box at the top of this page)
+   Finally, have your cub scouts **ENTER** their pre work in this `form <https://forms.gle/yZ3Drx9a7fkh3KqCA>`__ before April 5\ :sup:`th` to allow us to create a truly interactive and personalized learning experience. If you are late that is OK, please still fill it out up to our scheduled class. Feel free to contact the instructor (See email in blue box at the top of this page).
 
 What will we do during the meeting?
 -----------------------------------

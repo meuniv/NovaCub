@@ -12,8 +12,8 @@ This module is designed to help the Cub Scout explore how technology affects you
    * **When?**: 04/05 at 03:30pm
    * **Instructor**: Ted Sargent
    * **E-Mail address**: tesargent@gmail.com
-   * **Pre-reqs submission**: `google form <>`__
-   * **Zoom link for activity**: 
+   * **Pre-reqs submission**: `google form < https://docs.google.com/forms/d/e/1FAIpQLSfIXmdGiKgqnPfRCEJS_n2OFux9H3996eZizlHJ6gC6capKxQ/viewform?usp=sf_link>`__
+   * **Zoom link for activity**: https://us02web.zoom.us/j/83371388455
    * **Bio-sketch**: Ted is a mechanical engineer specializing in HVAC systems for higher education, hospitals, commercial, and institutional buildings. He is a Den leader and Pack committee chair for Pack 3020 in Glenville, NY along with Assistant Scoutmaster for Troop 56 in Burnt Hills, NY. Ted also earned his Eagle Scout in 1997 in Annawon Council in South Eastern Massachusetts. 
 
 
@@ -56,7 +56,7 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
 
 .. warning:: Pre-req submissions
 
-   Finally, have your cub scouts **ENTER** their pre work in this `form <https://forms.gle/4uQ3T9j9vyQTJd4y9>`__ before April 5\ :sup:`th` to allow us to create a truly interactive and personalized learning experience. If you are late that is OK, please still fill it out up to our April 7\ :sup:`th` 3:30 class.
+   Finally, have your cub scouts **ENTER** their pre work in this `form < https://docs.google.com/forms/d/e/1FAIpQLSfIXmdGiKgqnPfRCEJS_n2OFux9H3996eZizlHJ6gC6capKxQ/viewform?usp=sf_link>`__ before April 5\ :sup:`th` to allow us to create a truly interactive and personalized learning experience. If you are late that is OK, please still fill it out up to our scheduled class. Feel free to contact the instructor (See email in blue box at the top of this page).
 
    
 What will we do during the meeting?

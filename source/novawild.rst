@@ -13,7 +13,7 @@ This module is designed to help you learn about wildlife and the natural world a
    * **Instructor**: Melissa Sargent
    * **E-Mail address**: masargent@gmail.com
    * **Pre-reqs submission**: `google form <>`__
-   * **Zoom link for activity**:           
+   * **Zoom link for activity**: https://us02web.zoom.us/j/82678580269      
    * **Bio-sketch**: xxxx
 
 
