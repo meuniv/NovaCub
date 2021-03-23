@@ -94,7 +94,7 @@ What will we do during the meeting?
 
 	 For this requirement, cub scouts need to know their weight in lbs and should have a pen or pencil and paper available as well as a ruler or tape measure to measure their room.
 
-3. Requirement #4: **secret codes*
+3. Requirement #4: **secret codes**
 
    A. Look up, then discuss with your counselor each of the following:
 
