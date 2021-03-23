@@ -5,9 +5,7 @@
 
 This module is designed to help you explore how math affects your life each day.
 
-.. warning::
-
-   Math and physics are used in almost every kind of invention, including cars, airplanes, and telescopes. Math also includes cryptography, the use of secret codes.
+Math and physics are used in almost every kind of invention, including cars, airplanes, and telescopes. Math also includes cryptography, the use of secret codes.
 
 .. note::
    **General Information about this activity:**
