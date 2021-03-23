@@ -47,8 +47,9 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
 	     **Note: Do not eat the hot dog, and make sure to store your experiment in a safe place and dispose of it properly when you are done.**
 	     
 	     Useful Links
-	     * www.scientificamerican.com/article/bring-science-home-mummification/
-	     * www.sciencebuddies.org/science-fair-projects/project-ideas/human-biology-health
+	     
+	     * https://www.scientificamerican.com/article/bring-science-home-mummification/
+	     * https://www.sciencebuddies.org/science-fair-projects/project-ideas/human-biology-health
 
 	  B. Use plaster of paris to create a “rock” mold at least half an inch thick. Once it is set, create a dark surface like a patina on the rock, possibly by using tempera paint. Use a carving tool, such as a screw or push pin, to create one or more petroglyphs on your rock.
 
@@ -57,7 +58,7 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
  
 .. warning:: Pre-req submissions
 
-   Finally, have your cub scouts **ENTER** their pre work in this `form <>`__ before April 5\ :sup:`th` to allow us to create a truly interactive and personalized learning experience. If you are late that is OK, please still fill it out up to our scheduled 3:30 class. Feel free to contact the instructor (See email in blue box at the top of this page)
+   Finally, have your cub scouts **ENTER** their pre work in this `form <>`__ before April 5\ :sup:`th` to allow us to create a truly interactive and personalized learning experience. If you are late that is OK, please still fill it out up to our scheduled class. Feel free to contact the instructor (See email in blue box at the top of this page)
 
 
 What will we do during the meeting?
