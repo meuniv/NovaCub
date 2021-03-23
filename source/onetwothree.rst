@@ -16,7 +16,7 @@ This module is designed to help you explore how math affects your life each day.
    * **Instructor**: Rob Pattison
    * **E-Mail address**: pattison_r@yahoo.com
    * **Pre-reqs submission**: `google form <https://docs.google.com/forms/d/e/1FAIpQLSfs1QUDQ6d7PSvtTqXwZ69oNYgh_l2Kcz-QHgCIJrdBhHgcFw/viewform>`__
-   * **Zoom link for activity**: 
+   * **Zoom link for activity**: https://us02web.zoom.us/j/85271318679
    * **Bio-sketch**: Robert Pattison is an Executive Director and Head of Northeast Infrastructure at Morgan Stanley.  For the past 18 years, he has led over $25 billion of bond issuances on behalf of municipal entities from across the country.  Prior to working in public finance investment banking, Rob worked as a biochemical engineer for Genzyme Corporation and Regeneron Pharmaceuticals.  Rob received his M.B.A from Northeastern University, his M.S. in Chemical Engineering from Tufts University and his B.S. in Chemical Engineering from Cornell University.  When he was a Boy Scout, Rob earned the Arrow of Light and Eagle Scout rank as well as visited Gilwell Park (England) with his troop.  Currently, he is a merit badge counselor, the Troop Committee Chair for Troops 75B & 75G, the Cubmaster and Webelos Den Leader for Pack 232, and the Twin Rivers Council VP of Finance.
 
 
