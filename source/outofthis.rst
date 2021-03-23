@@ -32,14 +32,14 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
 
       **Here are some examples of appropriate videos:**
 
-      * https://www.youtube.com/watch?v=Xwn8fQSW7-8&list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL&index=17
-      * https://www.youtube.com/watch?v=HaFaf7vbgpE&list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL&index=18
-      * https://www.youtube.com/watch?v=E8GNde5nCSg&list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL&index=19
-      * https://www.youtube.com/watch?v=1hIwD17Crko&list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL&index=20
-      * https://www.youtube.com/watch?v=yB9HHyPpKds&list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL&index=22&t=29s
-      * https://www.youtube.com/watch?v=NPEEQm7bzcI
-      * https://www.youtube.com/watch?v=US_byEAbXP0&t=11s
-      * https://www.youtube.com/watch?v=seXbrauRTY4&t=8s
+      * `Jupiter <https://www.youtube.com/watch?v=Xwn8fQSW7-8&list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL&index=17>`__
+      * `Jupiter's Moons <https://www.youtube.com/watch?v=HaFaf7vbgpE&list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL&index=18>`__
+      * `Saturn <https://www.youtube.com/watch?v=E8GNde5nCSg&list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL&index=19>`__
+      * `Uranus & Neptune <https://www.youtube.com/watch?v=1hIwD17Crko&list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL&index=20>`__
+      * `Comets <https://www.youtube.com/watch?v=yB9HHyPpKds&list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL&index=22&t=29s>`__
+      * `Project Voyager <https://www.youtube.com/watch?v=NPEEQm7bzcI>`__
+      * `Voyager Mission <https://www.youtube.com/watch?v=US_byEAbXP0&t=11s>`__
+      * `Voyager Journey to the Stars <https://www.youtube.com/watch?v=seXbrauRTY4&t=8s>`__
 
 
 

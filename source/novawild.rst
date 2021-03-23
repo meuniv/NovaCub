@@ -27,6 +27,19 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
    .. note::
 
       Some examples include — but are not limited to — shows found on PBS (“NOVA”), Discovery Channel, Science Channel, National Geographic Channel, TED Talks (online videos), and the History Channel. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production. You may watch online productions with your counselor’s approval and under your parent’s supervision.
+
+      	  * `NASA Channel <https://www.youtube.com/user/NASAtelevision/videos>`__
+	  * `Bill Nye the Science Guy   <https://www.youtube.com/user/TheRealBillNye/videos>`__ 
+	  * `National Geographic  <https://www.youtube.com/user/NationalGeographic/videos>`__ 
+	  * `Nat Geo Kids  <https://www.youtube.com/channel/UCXVCgDuD_QCkI7gTKU7-tpg>`__ 
+	  * `Periodic Videos  <https://www.youtube.com/user/periodicvideos/videos>`__ 
+	  * `Sick Science  <https://www.youtube.com/user/SteveSpanglerScience/featured>`__ 
+	  * `Sci Show Kids  <https://www.youtube.com/user/scishowkids>`__ 
+	  * `Science Max  <https://www.youtube.com/channel/UCbprhISv-0ReKPPyhf7-Dtw/featured>`__ 
+	  * `Kids Science  <https://www.youtube.com/channel/UCwWa8EzP8vuI_hvFWOTryEg>`__ 
+	  * `NOVA Videos  <https://www.youtube.com/user/NOVAonline>`__ 
+
+
    
 2. Gather the following items for the event
 
@@ -42,7 +55,7 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
 
 .. warning:: Pre-req submissions
 
-   Finally, have your cub scouts **ENTER** their pre work in this `form <>`__ before April 5\ :sup:`th` to allow us to create a truly interactive and personalized learning experience. If you are late that is OK, please still fill it out up to our scheduled 3:30 class. Feel free to contact the instructor (See email in blue box at the top of this page)
+   Finally, have your cub scouts **ENTER** their pre work in this `form <>`__ before April 5\ :sup:`th` to allow us to create a truly interactive and personalized learning experience. If you are late that is OK, please still fill it out up to our scheduled class. Feel free to contact the instructor (See email in blue box at the top of this page)
 
       
 What will we do during the meeting?

@@ -13,7 +13,7 @@ This module is designed to help the Cub Scout explore how engineering and simple
    * **E-Mail address**: jeffzemsky@gmail.com
    * **Pre-reqs submission**: `google form <https://forms.gle/yZ3Drx9a7fkh3KqCA>`__
    * **Zoom link for activity**: https://us02web.zoom.us/j/86158992384
-   * **Bio-sketch**: Jeff Zemsky is a Senior Director of Product Management at PTC, a software company out of Boston MA.  At PTC, Jeff leads a team focused on PLM software for managing product design as they evolve through the development cycle.  PTC is an industry leader in CAD, PLM, AR and IoT helping companies create and manage products of all sorts from consumer goods to aerospace and everything in between.  Prior to PTC, Jeff worked at Plug Power managing fuel cell stack design and at Garden Way (Troy-bilt & Bolens) developing consumer lawn and garden products like mowers, tillers and snowthrowers.  Jeff has a BSME from Lehigh University and a MEME from RPI and is an ASME member.  Currently Jeff is a Committee member with Troop 1075 in Delmar, NY and serves on the Fort Orange District Committee as was Cubmaster for Pack 232 in Glenmont, NY.
+   * **Bio-sketch**: Jeff Zemsky is a Senior Director of Product Management at PTC, a software company out of Boston MA.  At PTC, Jeff leads a team focused on PLM software for managing product design as they evolve through the development cycle.  PTC is an industry leader in CAD, PLM, AR and IoT helping companies create and manage products of all sorts from consumer goods to aerospace and everything in between.  Prior to PTC, Jeff worked at Plug Power managing fuel cell stack design and at Garden Way (Troy-bilt & Bolens) developing consumer lawn and garden products like mowers, tillers and snowthrowers.  Jeff has a BSME from Lehigh University and a MEME from RPI and is an ASME member.  Currently, Jeff is a Committee member with Troop 1075 in Delmar, NY and serves on the Fort Orange District Committee as was Cubmaster for Pack 232 in Glenmont, NY.
 
 
 Pre-requisites
@@ -42,6 +42,21 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
       * `Three Classes of Levers - Examples, Definition, Classification <https://www.youtube.com/watch?v=DXtr9-S3lxw>`__
 
       * Some additional examples include—but are not limited to—shows found on PBS (“NOVA”), Discovery Channel, Science Channel, National Geographic Channel, TED Talks (online videos), and the History Channel. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production. You may watch online productions with your counselor’s approval and under your parent’s supervision.
+
+     	  * `NASA Channel <https://www.youtube.com/user/NASAtelevision/videos>`__
+	  * `Bill Nye the Science Guy   <https://www.youtube.com/user/TheRealBillNye/videos>`__ 
+	  * `National Geographic  <https://www.youtube.com/user/NationalGeographic/videos>`__ 
+	  * `Nat Geo Kids  <https://www.youtube.com/channel/UCXVCgDuD_QCkI7gTKU7-tpg>`__ 
+	  * `Periodic Videos  <https://www.youtube.com/user/periodicvideos/videos>`__ 
+	  * `Sick Science  <https://www.youtube.com/user/SteveSpanglerScience/featured>`__ 
+	  * `Sci Show Kids  <https://www.youtube.com/user/scishowkids>`__ 
+	  * `Science Max  <https://www.youtube.com/channel/UCbprhISv-0ReKPPyhf7-Dtw/featured>`__ 
+	  * `Kids Science  <https://www.youtube.com/channel/UCwWa8EzP8vuI_hvFWOTryEg>`__ 
+	  * `NOVA Videos  <https://www.youtube.com/user/NOVAonline>`__ 
+
+
+	
+
 
    B. Read (about one hour total) about anything related to motion or machines. Then do the following:
 

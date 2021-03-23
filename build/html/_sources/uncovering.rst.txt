@@ -12,7 +12,9 @@ This module is designed to help the Cub Scout explore XXXXX
    * **When?**: 04/07 at 06:30pm
    * **Instructor**: Katie McCabe
    * **E-Mail address**: mccabk@rpi.edu
-   * **Bio-sketch**: Katie is currently a senior biology major at Rennselaer Polytechnic Institute, and is also currently a 1/C Midshipman in the NROTC program there. Katie will be holding the meeting with the aid of a few of her fellow Midshipmen: Jonathan Beck.
+   * **Pre-reqs submission**: `google form <>`__
+   * **Zoom link for activity**: https://us02web.zoom.us/j/89238412594
+   * **Bio-sketch**: Katie is currently a senior biology major at Rensselaer Polytechnic Institute, and is also currently a 1/C Midshipman in the NROTC program there. Katie will be holding the meeting with the aid of a few of her fellow Midshipmen: Jonathan Beck, Jillian Kasun, Christopher Kang, Matthew Farr, and Michael Mendez.
 
 
 Pre-requisites
@@ -26,6 +28,7 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
 	
 	1.	Make a list of at least two questions or ideas from what you watched.
 	2.	Discuss two of the questions or ideas with your counselor.
+
    B.	Read (about one hour total) about anything related to archaeology. Then do the following:
 	
 	1.	Make a list of at least two questions or ideas from what you read.
@@ -52,14 +55,17 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
 	  .. note::
 	     **Search online for ”plaster of paris petroglyphs” for instructions.**
  
+.. warning:: Pre-req submissions
+
+   Finally, have your cub scouts **ENTER** their pre work in this `form <>`__ before April 5\ :sup:`th` to allow us to create a truly interactive and personalized learning experience. If you are late that is OK, please still fill it out up to our scheduled 3:30 class. Feel free to contact the instructor (See email in blue box at the top of this page)
 
 
-What we will do during the meeting?
+What will we do during the meeting?
 -----------------------------------
 
 1. **Explore**. Do EACH of the following:
    
-   A. Look up the definition of the word *archaeology* and discover what an archaeologist does on a dig site, and what other activities are involved in their work. Discuss it withyour counselor.
+   A. We will look up the definition of the word *archaeology* and discover what an archaeologist does on a dig site, and what other activities are involved in their work. 
 
       .. hint:: 
 	 Archaeology is the study of the human past by recovering and analyzing materials that people left behind.
@@ -72,25 +78,26 @@ What we will do during the meeting?
 	   * An ecofact, or biofact, is any organic material that has been recovered and has cultural or historical significance. This might be bones, animal horns, plants, and so on. If the item has been manipulated or modified by humans, it becomes an artifact.
 	   * Physical remains are things left behind that were part of an animal- for example, body parts or fossils of body parts.
   
-2. **Look around your house.** Make a list of 10 artifacts from your home that serve as clues to the way you live. Discuss what you discovered with your counselor.
+2. **Look around your house.** Make a list of 10 artifacts from your home that serve as clues to the way you live. Discuss what you discovered with your counselor. ***We will take time during the meeting for a miniature scavenger hunt for the scouts to find potential artifacts in their houses.**
 
    .. note:: 
       Artifacts could include anything found lying around the Scout’s house. A dog crate could indicate the family has kept domesticated animals. A hammer could indicate they know how to use tools. Ask the Scouts to pretend they have never seen a particular item before, and what might they think it is.
  
  
-3. **Be an archaeologist!** Choose A or B:
+3. **Be an archaeologist!**  You will create your own layers of artifacts and ecofacts. Gather some small items that would show future archaeologists how you and your family lived. Use a plastic bottle or glass jar as the vessel and Play-Doh sand, dirt, etc., to form layers. Place the gathered items in different layers. Think about which layers would hold the older items compared to newer ones. Show it to your counselor, and discuss with your counselor why you chose these items and what they would show archaeologists about how you lived. Excavate your items when you’re done.
 
-   A. Much can be discovered about a group of people based on the items they throw away. Wit h a parent or guardian ‘s permission and guidance, look through the items in a medium-sized trash can that contains at least a few days’ worth of trash. Draw conclusions about the people in that location and how they might live, based on what they throw away. Determine which items are artifacts and which are ecofacts. Discuss with your counselor how the relative age of the artifacts can be estimated based on their location in the trash can.
+   .. warning::
 
-   .. note:: 
-      You may want to have the Scout wear disposable gloves, especially if the trash can contains food remains. The Scout could lay out a plastic tarp or sheet on the floor, then spread the trash out in order from what was at the top of the can to what was at the bottom. Can the Scout tell when one day ended and the next began? Is it possible to estimate how many days’ worth of trash there is? You could ask the Scout to take pictures and bring them to discuss with you.
- 
-   B. Create your own layers of artifacts and ecofacts. Gather some small items that would show future archaeologists how you and your family lived. Use a plastic bottle or glass jar as the vessel and Play-Doh sand, dirt, etc., to form layers. Place the gathered items in different layers. Think about which layers would hold the older items compared to newer ones. Show it to your counselor, and discuss with your counselor why you chose these items and what they would show archaeologists about how you lived. Excavate your items when you’re done.
+      *Parents**: make sure you have a tall, clear cup or jar, some small items, and playdough or sand ready for the scouts to build their layers. Put down some cloths or newspaper to avoid any mess during the excavation portion.
  
 
  
 4. Visit a place that has items that have been excavated, such as a museum, dig
 site, historical society, etc. Talk to someone who works there about the displays. If you can’t visit in person, use resources in your school or local library or on the internet (with your parent’s or guardian’s permission and guidance) to take a virtual visit. Discuss with your counselor what you saw, how the archaeologists helped uncover those items, and what questions you had.
+
+.. hint::
+
+   We will do this virtually!
  
 5. Discuss with your counselor what you have learned about archaeology while working on this award.
 
