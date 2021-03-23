@@ -13,8 +13,9 @@ Hello Cubs and Families, we have an exciting lesson planned, full of interesting
    * **When?**: 04/07 at 03:30pm
    * **Instructor**: Jeffrey Brewer and James Cascione
    * **E-Mail address**: Jeffrey.Brewer@acphs.edu and jk.cascione@gmail.com
+   * **Pre-req submissions**: `google form <https://forms.gle/4uQ3T9j9vyQTJd4y9>`__
+   * **Zoom link for activity**: 
    * **Bio-sketches**: **James Cascione** is a Consultant and Environmental Scientist. His work supports the development and management of numerous air pollution control systems at manufacturing facilities for compliance with federal and state regulations. James received his M.A. in Secondary Science Education, M.S. and B.S. in Geology from Lehigh University in Bethlehem, PA. While earning his graduate degrees he worked for the US Army Corps of Engineers as a field researcher at the Matanuska Glacier near Sutton, AK. As a Boy Scout James earned the rank of Eagle and was a member of the Order of the Arrow, and was a staff member at Yawgoog Scout Reservation. Mr. Cascione is currently the Asst. Cubmaster for Pack 1232 in Glenmont, NY. **Jeffrey Brewer** is a Doctor of Pharmacy and Associate Professor of Pharmacy at the Albany College of Pharmacy and Health Sciences.  He has worked in private physician offices for the last 22 years and likes nothing better than digging around in the dirt in his garden.  He is an Eagle Scout and has been involved in scouting at various levels since 1983.
-
 
 
 Pre-requisites
@@ -34,10 +35,9 @@ Once you are done watching,  enter at least two quesitons or ideas from what you
    -  **Bear Scouts:** Super Science
    -  **Webelos Scouts:** Adventure in Science, Earth Rockss!
 
-.. warning::
+.. warning:: Pre-req submissions
 
    Finally, have your cub scouts **ENTER** their pre work in this `form <https://forms.gle/4uQ3T9j9vyQTJd4y9>`__ before April 5\ :sup:`th` to allow us to create a truly interactive and personalized learning experience. If you are late that is OK, please still fill it out up to our April 7\ :sup:`th` 3:30 class.
-
 
 
 What will we do during the meeting?

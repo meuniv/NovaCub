@@ -12,6 +12,8 @@ This module is designed to help the Cub Scout discover the wonders of space expl
    * **When?**: 04/05 at 06:30pm
    * **Instructor**: George Hassel
    * **E-Mail address**: ghassel@siena.edu
+   * **Pre-reqs submission**: `google form <>`__
+   * **Zoom link for activity**:      
    * **Bio-sketch**: George is an instructor of Physics and Astronomy at Siena College and enjoys outreach events with the Breyo Observatory.   He is the Webelos Den  Leader for Pack 1701 in Latham, and earned the rank of Eagle Scout in 1995 in Valley Forge Council (PA).  
 
 
@@ -41,10 +43,12 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
 
 
 
+.. warning:: Pre-req submissions
 
-What we will do during the meeting?
+   Finally, have your cub scouts **ENTER** their pre work in this `form <>`__ before April 5\ :sup:`th` to allow us to create a truly interactive and personalized learning experience. If you are late that is OK, please still fill it out up to our scheduled 3:30 class. Feel free to contact the instructor (See email in blue box at the top of this page)
+
+What will wedo during the meeting?
 -----------------------------------
-
 
 1. We'll talk about how to focus, make a diagram of the solar system, and draw some constellations.  We will use a planetarium software to then try to find them.
 

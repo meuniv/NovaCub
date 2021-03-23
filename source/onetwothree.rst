@@ -15,6 +15,8 @@ This module is designed to help you explore how math affects your life each day.
    * **When?**: 04/10 at 12:00pm
    * **Instructor**: Rob Pattison
    * **E-Mail address**: pattison_r@yahoo.com
+   * **Pre-reqs submission**: `google form <>`__
+   * **Zoom link for activity**: 
    * **Bio-sketch**: Robert Pattison is an Executive Director and Head of Northeast Infrastructure at Morgan Stanley.  For the past 18 years, he has led over $25 billion of bond issuances on behalf of municipal entities from across the country.  Prior to working in public finance investment banking, Rob worked as a biochemical engineer for Genzyme Corporation and Regeneron Pharmaceuticals.  Rob received his M.B.A from Northeastern University, his M.S. in Chemical Engineering from Tufts University and his B.S. in Chemical Engineering from Cornell University.  When he was a Boy Scout, Rob earned the Arrow of Light and Eagle Scout rank as well as visited Gilwell Park (England) with his troop.  Currently, he is a merit badge counselor, the Troop Committee Chair for Troops 75B & 75G, the Cubmaster and Webelos Den Leader for Pack 232, and the Twin Rivers Council VP of Finance.
 
 
@@ -59,6 +61,9 @@ Choose A or B or C and complete ALL the requirements.
       1. Make a list of at least two questions or ideas from what you read and watched.
       2. Discuss two of the questions or ideas with your counselor.
 
+.. warning:: Pre-req submissions
+
+   Finally, have your cub scouts **ENTER** their pre work in this `form <>`__ before April 5\ :sup:`th` to allow us to create a truly interactive and personalized learning experience. If you are late that is OK, please still fill it out up to our scheduled 3:30 class. Feel free to contact the instructor (See email in blue box at the top of this page)
 
 
 What will we do during the meeting?

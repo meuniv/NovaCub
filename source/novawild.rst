@@ -12,6 +12,8 @@ This module is designed to help you learn about wildlife and the natural world a
    * **When?**: 04/06 at 06:30pm
    * **Instructor**: Melissa Sargent
    * **E-Mail address**: masargent@gmail.com
+   * **Pre-reqs submission**: `google form <>`__
+   * **Zoom link for activity**:           
    * **Bio-sketch**: xxxx
 
 
@@ -38,7 +40,12 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
    h. Peanut butter (1 cup)
    i. Bird seed (1 cup)
 
-What we will do during the meeting?
+.. warning:: Pre-req submissions
+
+   Finally, have your cub scouts **ENTER** their pre work in this `form <>`__ before April 5\ :sup:`th` to allow us to create a truly interactive and personalized learning experience. If you are late that is OK, please still fill it out up to our scheduled 3:30 class. Feel free to contact the instructor (See email in blue box at the top of this page)
+
+      
+What will we do during the meeting?
 -----------------------------------
 
 1. Digging the Past

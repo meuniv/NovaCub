@@ -12,12 +12,14 @@ This module is designed to help the Cub Scout explore how science affects their 
    * **When?**: 04/08 at 3:30pm
    * **Instructor**: Vincent Meunier
    * **E-Mail address**: twinriversstem@gmail.com
+   * **Pre-reqs submission**: `google form <>`__
+   * **Zoom link for activity**: 
    * **Bio-sketch**: Vincent Meunier is a Physicist with an expertise in theoretical and computational physics. He's the Head of the Physics Department at Rensselaer Polytechnic Institute where he teaches Quantum Mechanics and Thermodynamics. He's a Fellow of the American Physical Society, the Institute of Physics, and the American Association for the Advancement of Science. He has been a scouter for 35 years, first as a cub, scout, and scoutmaster while in Belgium. He has been a dean leader, assistant scoutmaster, scoutmaster, and now a Fort Orange district committee member and  Chair of the STEM Committee of the Twin Rivers Council. 
    
 
 
 Pre-requisites
-~~~~~~~~~~~~~~
+--------------
 
 What is a pre-requisite? It is an activity you should complete *before* the meeting! Here is a list of pre-requisites you should do to complete this Award. If you do not have time to complete it **before** the day of the activity, do not despair! You can always send your work later to your instructor at the address listed above!
 
@@ -66,8 +68,13 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
 
    * **Option B:** Complete all of the following: (a) Show how to orient a map. Find three landmarks on the map. (b) Make a simple compass with a magnet and pin. (c) Show how a compass works. (d) Use a compass on an orienteering activity with at least 3 stops.
 
-What we will do during the meeting?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. warning:: Pre-req submissions
+
+   Finally, have your cub scouts **ENTER** their pre work in this `form <>`__ before April 5\ :sup:`th` to allow us to create a truly interactive and personalized learning experience. If you are late that is OK, please still fill it out up to our scheduled 3:30 class. Feel free to contact the instructor (See email in blue box at the top of this page)
+
+What  will we do during the meeting?
+------------------------------------
 
 1. We will act like a scientist!
 
