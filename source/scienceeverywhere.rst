@@ -31,25 +31,29 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
       (2) Discuss two of the questions or ideas with your counselor.
 
 
-	  * `NASA Channel <https://www.youtube.com/user/NASAtelevision/videos>`__
+	  .. note::
 
-	  * `Bill Nye the Science Guy   <https://www.youtube.com/user/TheRealBillNye/videos>`__ 
+	     The list below provides some examples of videos that could work for this requirement!
+	     
+	     * `NASA Channel <https://www.youtube.com/user/NASAtelevision/videos>`__
 
-	  * `National Geographic  <https://www.youtube.com/user/NationalGeographic/videos>`__ 
+	     * `Bill Nye the Science Guy   <https://www.youtube.com/user/TheRealBillNye/videos>`__ 
+
+	     * `National Geographic  <https://www.youtube.com/user/NationalGeographic/videos>`__ 
      
-	  * `Nat Geo Kids  <https://www.youtube.com/channel/UCXVCgDuD_QCkI7gTKU7-tpg>`__ 
+	     * `Nat Geo Kids  <https://www.youtube.com/channel/UCXVCgDuD_QCkI7gTKU7-tpg>`__ 
 
-	  * `Periodic Videos  <https://www.youtube.com/user/periodicvideos/videos>`__ 
+	     * `Periodic Videos  <https://www.youtube.com/user/periodicvideos/videos>`__ 
 
-	  * `Sick Science  <https://www.youtube.com/user/SteveSpanglerScience/featured>`__ 
+	     * `Sick Science  <https://www.youtube.com/user/SteveSpanglerScience/featured>`__ 
 
-	  * `Sci Show Kids  <https://www.youtube.com/user/scishowkids>`__ 
+	     * `Sci Show Kids  <https://www.youtube.com/user/scishowkids>`__ 
 
-	  * `Science Max  <https://www.youtube.com/channel/UCbprhISv-0ReKPPyhf7-Dtw/featured>`__ 
+	     * `Science Max  <https://www.youtube.com/channel/UCbprhISv-0ReKPPyhf7-Dtw/featured>`__ 
 
-	  * `Kids Science  <https://www.youtube.com/channel/UCwWa8EzP8vuI_hvFWOTryEg>`__ 
+	     * `Kids Science  <https://www.youtube.com/channel/UCwWa8EzP8vuI_hvFWOTryEg>`__ 
 
-	  * `NOVA Videos  <https://www.youtube.com/user/NOVAonline>`__ 
+	     * `NOVA Videos  <https://www.youtube.com/user/NOVAonline>`__ 
 
 
    B. (only do this if you do not want to do A.) Read (about one hour total) about anything related to science. Then do the following:

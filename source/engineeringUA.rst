@@ -37,8 +37,9 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
    C. Do a combination of reading and watching (not less than one hour total). Then do the following:
 
       1. Make a list of at least two questions or ideas from each article or show.
+      2. Discuss two of the questions or ideas with your counselor.
 
-   .. note:: 
+.. note:: 
 
       Some examples of shows to watch include—but are not limited to—`The STEM of
       Indoor Skydiving <https://youtu.be/V5jJ5FaX1ZU>`__; documentaries produced by PBS (such as 
