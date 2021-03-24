@@ -52,9 +52,9 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
 
       If you are a fan of Bill Nye the Science Guy... a couple of other videos you could watch would include:
 
-      1. Bill Nye the Science Guy Sea 05 Epis 13 Fluids - `Bing video <https://www.bing.com/videos/search?q=fluid+dynamics+for+kids&&view=detail&mid=5A34B2890BB1367AC3955A34B2890BB1367AC395&&FORM=VRDGAR&ru=%2Fvideos%2Fsearch%3Fq%3Dfluid%2Bdynamics%2Bfor%2Bkids%26qpvt%3Dfluid%2Bdynamics%2Bfor%2Bkids%26FORM%3DVDRE>`__
-      2. Bill Nye the Science Guy S02E19 Atmosphere - `Bing video <https://www.bing.com/videos/search?q=fluid+dynamics+for+kids&ru=%2fvideos%2fsearch%3fq%3dfluid%2bdynamics%2bfor%2bkids%26qpvt%3dfluid%2bdynamics%2bfor%2bkids%26FORM%3dVDRE&view=detail&mid=43D5F14F9A0903CB928943D5F14F9A0903CB9289&rvsmid=FC1AEECA4DB6D886EE55FC1AEECA4DB6D886EE55&FORM=VDQVAP>`__
-      3. `Bill Nye The Science Guy on Wind (Full Clip) - <Bill Nye The Science Guy on Wind (Full Clip)>`__
+      1. `Bill Nye the Science Guy Sea 05 Epis 13 Fluids <https://www.bing.com/videos/search?q=fluid+dynamics+for+kids&&view=detail&mid=5A34B2890BB1367AC3955A34B2890BB1367AC395&&FORM=VRDGAR&ru=%2Fvideos%2Fsearch%3Fq%3Dfluid%2Bdynamics%2Bfor%2Bkids%26qpvt%3Dfluid%2Bdynamics%2Bfor%2Bkids%26FORM%3DVDRE>`__
+      2. `Bill Nye the Science Guy S02E19 Atmosphere <https://www.bing.com/videos/search?q=fluid+dynamics+for+kids&ru=%2fvideos%2fsearch%3fq%3dfluid%2bdynamics%2bfor%2bkids%26qpvt%3dfluid%2bdynamics%2bfor%2bkids%26FORM%3dVDRE&view=detail&mid=43D5F14F9A0903CB928943D5F14F9A0903CB9289&rvsmid=FC1AEECA4DB6D886EE55FC1AEECA4DB6D886EE55&FORM=VDQVAP>`__
+      3. `Bill Nye The Science Guy on Wind (Full Clip) <https://www.youtube.com/watch?v=uBqohRu2RRk>`__
 
    If watching videos is not your thing you may select an article and read for an hour.  A couple of good places to look include:
 
