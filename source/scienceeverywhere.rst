@@ -12,7 +12,7 @@ This module is designed to help the Cub Scout explore how science affects their 
    * **When?**: 04/08 at 3:30pm
    * **Instructor**: Vincent Meunier
    * **E-Mail address**: twinriversstem@gmail.com
-   * **Pre-reqs submission**: `google form <>`__
+   * **Pre-reqs submission**: `google form <https://docs.google.com/forms/d/e/1FAIpQLSc9KGcd_EUeNz1bJ3WPMaqWoaOWaWdGRQ9ds88sAHKBsWdE_A/viewform?usp=sf_link>`__
    * **Zoom link for activity**: https://us02web.zoom.us/j/84133246577
    * **Bio-sketch**: Vincent Meunier is a Physicist with an expertise in theoretical and computational physics. He's the Head of the Physics Department at Rensselaer Polytechnic Institute where he teaches Quantum Mechanics and Thermodynamics. He's a Fellow of the American Physical Society, the Institute of Physics, and the American Association for the Advancement of Science. He has been a scouter for 35 years, first as a cub, scout, and scoutmaster while in Belgium. He has been a dean leader, assistant scoutmaster, scoutmaster, and now a Fort Orange district committee member and  Chair of the STEM Committee of the Twin Rivers Council. 
    
@@ -36,23 +36,14 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
 	     The list below provides some examples of videos that could work for this requirement!
 	     
 	     * `NASA Channel <https://www.youtube.com/user/NASAtelevision/videos>`__
-
 	     * `Bill Nye the Science Guy   <https://www.youtube.com/user/TheRealBillNye/videos>`__ 
-
 	     * `National Geographic  <https://www.youtube.com/user/NationalGeographic/videos>`__ 
-     
 	     * `Nat Geo Kids  <https://www.youtube.com/channel/UCXVCgDuD_QCkI7gTKU7-tpg>`__ 
-
 	     * `Periodic Videos  <https://www.youtube.com/user/periodicvideos/videos>`__ 
-
 	     * `Sick Science  <https://www.youtube.com/user/SteveSpanglerScience/featured>`__ 
-
 	     * `Sci Show Kids  <https://www.youtube.com/user/scishowkids>`__ 
-
 	     * `Science Max  <https://www.youtube.com/channel/UCbprhISv-0ReKPPyhf7-Dtw/featured>`__ 
-
 	     * `Kids Science  <https://www.youtube.com/channel/UCwWa8EzP8vuI_hvFWOTryEg>`__ 
-
 	     * `NOVA Videos  <https://www.youtube.com/user/NOVAonline>`__ 
 
 
@@ -75,7 +66,7 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
 
 .. warning:: Pre-req submissions
 
-   Finally, have your cub scouts **ENTER** their pre work in this `form <>`__ before April 5\ :sup:`th` to allow us to create a truly interactive and personalized learning experience. If you are late that is OK, please still fill it out up to our scheduled 3:30 class. Feel free to contact the instructor (See email in blue box at the top of this page)
+   Finally, have your cub scouts **ENTER** their pre work in this `form <https://docs.google.com/forms/d/e/1FAIpQLSc9KGcd_EUeNz1bJ3WPMaqWoaOWaWdGRQ9ds88sAHKBsWdE_A/viewform?usp=sf_link>`__ before April 5\ :sup:`th` to allow us to create a truly interactive and personalized learning experience. If you are late that is OK, please still fill it out up to our scheduled 3:30 class. Feel free to contact the instructor (See email in blue box at the top of this page)
 
 What  will we do during the meeting?
 ------------------------------------
