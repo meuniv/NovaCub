@@ -19,8 +19,11 @@ Welcome to Cub Scout Nova Week of the TRC!
    **Contact info:**
 
    * Registration and other administrative aspects:
+     
      * Tory Carman (email: Tory.Carman@scouting.org)
+
    * Co-organizers:
+
      * Rob Pattison (email: pattison_r@yahoo.com)
      * Greg Szczesny (email: glszczesny@gmail.com)
      * Vincent Meunier (email: twinriversstem@gmail.com)
