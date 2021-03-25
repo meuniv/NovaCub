@@ -4,7 +4,7 @@
 Welcome to Cub Scout Nova Week of the TRC!
 ++++++++++++++++++++++++++++++++++++++++++++
 
-.. warming::
+.. warning::
 
    Welcome to the Twin Rivers Council Cub Scout Nova Quest website!
 
