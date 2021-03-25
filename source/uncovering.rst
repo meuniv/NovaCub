@@ -12,7 +12,7 @@ This module is designed to help the Cub Scout explore XXXXX
    * **When?**: 04/07 at 06:30pm
    * **Instructor**: Katie McCabe
    * **E-Mail address**: mccabk@rpi.edu
-   * **Pre-reqs submission**: `google form <>`__
+   * **Pre-reqs submission**: send directly to mccabk@rpi.edu
    * **Zoom link for activity**: https://us02web.zoom.us/j/89238412594
    * **Bio-sketch**: Katie is currently a senior biology major at Rensselaer Polytechnic Institute, and is also currently a 1/C Midshipman in the NROTC program there. Katie will be holding the meeting with the aid of a few of her fellow Midshipmen: Jonathan Beck, Jillian Kasun, Christopher Kang, Matthew Farr, and Michael Mendez.
 
@@ -58,7 +58,7 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
  
 .. warning:: Pre-req submissions
 
-   Finally, have your cub scouts **ENTER** their pre work in this `form <>`__ before April 5\ :sup:`th` to allow us to create a truly interactive and personalized learning experience. If you are late that is OK, please still fill it out up to our scheduled class. Feel free to contact the instructor (See email in blue box at the top of this page)
+   Finally, have your cub scouts **SEND** their pre work directly to Katie to her email address: mccabk@rpi.edu before April 5\ :sup:`th` to allow us to create a truly interactive and personalized learning experience. If you are late that is OK, please still fill it out up to our scheduled class. Feel free to contact the instructor if you have any question. 
 
 
 What will we do during the meeting?

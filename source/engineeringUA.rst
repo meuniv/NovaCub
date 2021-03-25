@@ -11,8 +11,8 @@ Up and Away is the Cub Scout Nova Award for investigating how fluids such as liq
 
    * **When?**: 04/09 at 03:30pm
    * **Instructor**: Bill Clancy
-   * **E-Mail address**: wsclancy@nycap.rr.com
-   * **Pre-reqs submission**: `google form <>`__
+   * **E-Mail address**: wsclancy@aol.com
+   * **Pre-reqs submission**: send directly to wsclancy@aol.com
    * **Zoom link for activity**: https://us02web.zoom.us/j/86176577409
    * **Bio-sketch**: Bill Clancy is a retired Nuclear Engineer with degrees in Nuclear Engineering and Management as well as a Professional Engineers Credentials.  Bill has extensive experience in the defense (Naval Submarine) and power industry and holds several Nuclear Power Supervisor Licenses.  He is presently engaged as a consultant building training for personnel constructing submarines at the Groton Naval Shipyard. He has been a scouter for 40 years, as an Eagle scout, Cubmaster, Scoutmaster and Commissioner.  He is now an Assistant Council Commissioner and the Chairman of the Yankee Doodle District in Rensselaer and Columbia counties.  He is also a member of the STEM Committee of the Twin Rivers Council.
 
@@ -65,8 +65,7 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
 
 .. warning:: Pre-req submissions
 
-   Finally, have your cub scouts **ENTER** their pre work in this `form <>`__ before April 5\ :sup:`th` to allow us to create a truly interactive and personalized learning experience. If you are late that is OK, please still fill it out up to our scheduled 3:30 class. Feel free to contact the instructor (See email in blue box at the top of this page)
-
+   Finally, have your cub scouts **SEND** their pre work directly to Bill Clancy to his email address: wsclancy@aol.com before April 5\ :sup:`th` to allow us to create a truly interactive and personalized learning experience. If you are late that is OK, please still fill it out up to our scheduled class. Feel free to contact the instructor if you have any question. 
 
 What will we do during the meeting?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
