@@ -116,3 +116,11 @@ What will we do during the meeting?
  
 
 4. Requirement #5: Discuss with your counselor how math affects your everyday life.
+
+
+.. figure:: https://ds055uzetaobb.cloudfront.net/brioche/uploads/8lhMEciVlk-enigma.jpg?width=5000
+   :width: 600px
+   :align: center
+   :alt: Alternative text
+
+   Military Enigma machine, model "Enigma 1", used during the late 1930s and during the war (from https://brilliant.org/wiki/enigma-machine/)

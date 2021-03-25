@@ -12,9 +12,9 @@ This module is designed to help you learn about wildlife and the natural world a
    * **When?**: 04/06 at 06:30pm
    * **Instructor**: Melissa Sargent
    * **E-Mail address**: masargent@gmail.com
-   * **Pre-reqs submission**: `google form <>`__
+   * **Pre-reqs submission**: send directly to masargent@gmail.com
    * **Zoom link for activity**: https://us02web.zoom.us/j/82678580269      
-   * **Bio-sketch**: xxxx
+   * **Bio-sketch**: *not available at this time*
 
 
 Pre-requisites
@@ -55,7 +55,7 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
 
 .. warning:: Pre-req submissions
 
-   Finally, have your cub scouts **ENTER** their pre work in this `form <>`__ before April 5\ :sup:`th` to allow us to create a truly interactive and personalized learning experience. If you are late that is OK, please still fill it out up to our scheduled class. Feel free to contact the instructor (See email in blue box at the top of this page)
+   Finally, have your cub scouts **SEND** their pre work directly to Melissa Sargent to her email address: before April 5\ :sup:`th` to allow us to create a truly interactive and personalized learning experience. If you are late that is OK, please still fill it out up to our scheduled class. Feel free to contact the instructor if you have any question. 
 
       
 What will we do during the meeting?

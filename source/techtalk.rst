@@ -103,4 +103,8 @@ What will we do during the meeting?
 
 5. Discuss with your counselor how technology affects your everyday life.
 
+.. figure:: https://sloanreview.mit.edu/wp-content/uploads/2018/01/GEN-Kappos-Innovation-Technology-1200-1200x630.jpg
+   :width: 600px
+   :align: center
+   :alt: Alternative text
 

@@ -31,9 +31,9 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
 
       .. note:: Examples of videos you can watch:
 
-	 * Mother and Child Development: https://www.youtube.com/playlist?list=PLZNAbh0qDoB4MJ_1ZZSCK33kMo59ixZHP
-	 * Insights into Mathematics: https://www.youtube.com/watch?v=eV4ISk4R8sQ
-	 * Art Lady Channel: https://www.youtube.com/playlist?list=PL279wSR-B9GYWU4yt1QGtWB3CGd3Uq-jC
+	 * `Intro to Symmetry <https://www.youtube.com/playlist?list=PLZNAbh0qDoB4MJ_1ZZSCK33kMo59ixZHP>`__
+	 * `Insights into Mathematics <https://www.youtube.com/watch?v=eV4ISk4R8sQ>`__
+	 * `Line designs <https://www.youtube.com/playlist?list=PL279wSR-B9GYWU4yt1QGtWB3CGd3Uq-jC>`__
 
    B. Read (about one hour total) about anything that involves symmetry, mirrors, or artistic patterns. Then do the following:
 
