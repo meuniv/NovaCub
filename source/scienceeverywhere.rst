@@ -116,3 +116,9 @@ What  will we do during the meeting?
    .. raw:: html
       
       <iframe width="560" height="315" src="https://www.youtube.com/embed/IYrRsoROjkk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. figure:: _images/scievery.jpg
+   :width: 600px
+   :align: center
+   :alt: Alternative text
+
