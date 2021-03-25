@@ -3,7 +3,7 @@
 Uncovering the Past
 +++++++++++++++++++
 
-This module is designed to help the Cub Scout explore XXXXX
+This module is designed to help the Cub Scout explore the wonders of archaeology.
 
 
 .. note::
