@@ -131,3 +131,8 @@ What will we do during the meeting?
 
 3. Discuss with your counselor how engineering and simple machines affect your everyday life.
 
+.. figure:: _images/swing
+	    .jpg
+   :width: 600px
+   :align: center
+   :alt: Alternative text

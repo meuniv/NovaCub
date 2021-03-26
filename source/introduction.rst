@@ -6,7 +6,7 @@ Welcome to Cub Scout Nova Week of the TRC!
 
 .. warning::
 
-   Welcome to the Twin Rivers Council Cub Scout Nova Quest website!
+   **Welcome to the Twin Rivers Council Cub Scout Nova Quest website!**
 
    Here you will find all the information you need for each of the 11 Cub Scout Nova Awards offered during the Nova Quest program. Each Nova Award has its own page. Only focus on those for which of you have registered!
 

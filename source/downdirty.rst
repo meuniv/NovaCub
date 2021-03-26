@@ -88,3 +88,8 @@ What will we do during the meeting?
 .. note::
 
    A Google Earth Tour is available with a complete tour for the NOVA Down and Dirty Award presented on March 21st, 2021, available `here <https://earth.google.com/earth/d/1KbLMu9qPxILTf6Wr2IzdU8HifO1hb-xS?usp=sharing>`__.  It is the Intellectual Property of Dr. Brewer and is available for use for any scouting family who is completing the NOVA Down and Dirty award this weekend and at any point in the future.  If you are not in scouting, please contact me at jmhlbrewer@yahoo.com for approval.
+
+   .. figure:: _images/earth.png
+   :width: 600px
+   :align: center
+   :alt: Alternative text

@@ -121,4 +121,3 @@ What  will we do during the meeting?
    :width: 600px
    :align: center
    :alt: Alternative text
-
