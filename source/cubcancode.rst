@@ -104,3 +104,8 @@ What will we do during the meeting?
       6. Research how computers use algorithms to work. Discuss what you learn with your counselor.
 
 5. Discuss with your counselor what you have learned about how computers
+
+   .. figure:: https://www.newyorkfamily.com/wp-content/uploads/2020/03/kidlocoding-822x524.jpg
+   :width: 600px
+   :align: center
+   :alt: Alternative text

@@ -102,3 +102,7 @@ site, historical society, etc. Talk to someone who works there about the display
  
 5. Discuss with your counselor what you have learned about archaeology while working on this award.
 
+.. figure:: _images/archeo.jpg
+   :width: 600px
+   :align: center
+   :alt: Alternative text

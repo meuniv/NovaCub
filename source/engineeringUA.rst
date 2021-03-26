@@ -82,3 +82,7 @@ We will be using both a pin wheel and a paper airplane as part of studying Berno
 **We will fly our paper airplane several times during our session so plan on having about a 10 foot long unobstructed area in which to fly where if your airplane hits anything there will not be any damage**
 
 
+.. figure:: https://static.scientificamerican.com/sciam/cache/file/63349C20-01E0-4502-A13713FFCD50EF98.jpg
+   :width: 600px
+   :align: center
+   :alt: Alternative text

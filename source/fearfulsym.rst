@@ -92,3 +92,7 @@ What will we do during the meeting?
 4. Discuss with your counselor how symmetry impacts your everyday life.
 
 
+.. figure:: _images/symmetry.jpg
+   :width: 600px
+   :align: center
+   :alt: Alternative text

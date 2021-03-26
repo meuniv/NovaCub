@@ -84,3 +84,7 @@ What will we do during the meeting?
 
 
 
+.. figure:: https://static01.nyt.com/images/2020/05/21/science/00xp-virus-birdwatching-slide-TBD5/00xp-virus-birdwatching-slide-TBD5-superJumbo.jpg?quality=90&auto=webp
+   :width: 600px
+   :align: center
+   :alt: Alternative text
