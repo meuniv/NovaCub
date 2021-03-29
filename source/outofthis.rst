@@ -47,7 +47,7 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
 
    Finally, have your cub scouts **ENTER** their pre work in this `form < https://forms.gle/yPmg4Zv1mAwDY9Pf7>`__ before April 5\ :sup:`th` to allow us to create a truly interactive and personalized learning experience. If you are late that is OK, please still fill it out up to our scheduled class. Feel free to contact the instructor (See email in blue box at the top of this page).
 
-What will wedo during the meeting?
+What will we do during the meeting?
 -----------------------------------
 
 1. We'll talk about how to focus, make a diagram of the solar system, and draw some constellations.  We will use a planetarium software to then try to find them.
