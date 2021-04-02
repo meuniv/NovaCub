@@ -74,9 +74,9 @@ What is a pre-requisite? It is an activity you should complete *before* the meet
 
 2. Choose one of the following – B or C
 
-   A. With your parent’s **permission**, take an old or broken household or mechanical item, break it down into its component pieces, and identify the purpose of five parts. Suggested items include a keyboard, computer, telephone, DVD player, toaster, bicycle, people counter, printer or similar item. Make sure to use appropriate safety precautions.
+   B. With your parent’s **permission**, take an old or broken household or mechanical item, break it down into its component pieces, and identify the purpose of five parts. Suggested items include a keyboard, computer, telephone, DVD player, toaster, bicycle, people counter, printer or similar item. Make sure to use appropriate safety precautions.
 
-   B. Participate in two sports, either as an individual or part of a team, and identify the levers used in each sport.
+   C. Participate in two sports, either as an individual or part of a team, and identify the levers used in each sport.
 
 3. Do the following: Visit a place that uses levers, such as a playground, carpentry shop, construction site, restaurant kitchen, or any other location that  uses levers.
 
