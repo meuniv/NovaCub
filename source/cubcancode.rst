@@ -13,7 +13,7 @@ Did you ever wonder how computers know what to do? This module is designed to he
    * **Instructor**: Ted Sargent
    * **E-Mail address**: tesargent@gmail.com
    * **Pre-reqs submission**: `google form <https://docs.google.com/forms/d/e/1FAIpQLScFFe3AtB4SXZhyp5RDi8ysK2Zd5z6x1C7vJxYtiHrDkuQAHA/viewform?usp=sf_link>`__
-   * **Zoom link for activity**: https://us02web.zoom.us/j/87158955468
+   * **Zoom link for activity**: https://zoom.us/j/97385205758
    * **Bio-sketch**: Ted is a mechanical engineer specializing in HVAC systems for higher education, hospitals, commercial, and institutional buildings. He is a Den leader and Pack committee chair for Pack 3020 in Glenville, NY along with Assistant Scoutmaster for Troop 56 in Burnt Hills, NY. Ted also earned his Eagle Scout in 1997 in Annawon Council in South Eastern Massachusetts. 
 
 

@@ -13,7 +13,7 @@ This module is designed to help the Cub Scout explore how symmetry affects your 
    * **Instructor**: Melia Gordon
    * **E-Mail address**: boyscouts@meliagordon.com
    * **Pre-reqs submission**: `google form <https://docs.google.com/forms/d/e/1FAIpQLSfOLxOzfbvY-S4kMuaPNDcMjgJXow8BRTQAKJE-choLFqZQ1A/viewform>`__
-   * **Zoom link for activity**: https://us02web.zoom.us/j/86193434821
+   * **Zoom link for activity**: https://zoom.us/j/93949066800
    * **Bio-sketch**: Melia Gordon is an electrical engineer turned yoga teacher. She has been involved in Girl Scouts for 17 years and BSA Scouts for almost 10 years, helping with fundraising for Cub Scouts and Scouts BSA and as Assistant Scoutmaster for her oldest’s girl troop. When not teaching, she coaches FIRST robotics teams for her 3 kids to keep her engineering skills sharp.
 
 
